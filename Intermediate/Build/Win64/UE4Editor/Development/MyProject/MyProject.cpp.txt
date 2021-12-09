@@ -1,0 +1,2 @@
+C:\Users\terok\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+C:\Users\terok\Documents\Unreal Projects\MyProject\Source\MyProject\MyProject.h
